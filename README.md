@@ -7,11 +7,11 @@
 - 구성: 프론트엔드 2명, 백엔드 2명
 - 기간: 2020년 7월 06일 - 2020년 7월 16일
 
-
+<br>
 ## DB Modeling
 
 ![](image/eval_ERD.png)
-
+<br>
 ## Technologies
 
 - python
@@ -21,7 +21,7 @@
 - Json
 - CORS headers
 - Git, Github
-
+<br>
 ## Features
 
 ### User
