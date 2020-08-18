@@ -8,10 +8,12 @@
 - 기간: 2020년 7월 06일 - 2020년 7월 16일
 
 <br>
+
 ## DB Modeling
 
 ![](image/eval_ERD.png)
 <br>
+
 ## Technologies
 
 - python
@@ -22,6 +24,7 @@
 - CORS headers
 - Git, Github
 <br>
+
 ## Features
 
 ### User
